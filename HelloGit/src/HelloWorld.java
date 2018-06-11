@@ -5,6 +5,7 @@ public class HelloWorld {
 		System.out.println("THIS IS FIRST PROGRAM");
 		System.out.println("THIS IS LINE TWO");
 		System.out.println("MANUALLY EDITED");
+		System.out.println("THIS IS ANOTHER LINE");
 	}
 
 }
